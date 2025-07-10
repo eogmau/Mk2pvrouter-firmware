@@ -1,4 +1,4 @@
-# Advanced ISR-Driven PV Power Diverter with ESPHome Integration
+# Advanced ISR-Driven PV Power Diverter with ESPHome Integration for MK2PVRouter
 
 This project is a significantly enhanced and modernized version of the classic Mk2 PV Router code, originally developed by Robin Emley. While the core principle of diverting surplus solar PV energy to a resistive load (like a hot water heater) remains, this version introduces a more robust, configurable, and connectable architecture suitable for modern smart home integration.
 
