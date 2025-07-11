@@ -72,7 +72,7 @@
 
 // Change these values to suit the local mains frequency and supply meter
 #define CYCLES_PER_SECOND 50 
-#define WORKING_RANGE_IN_JOULES 28800 // 8 Wh x 3600 J/Wh for delayed startup
+#define WORKING_RANGE_IN_JOULES 28800 // 8 Wh x 3600 J/Wh for delayed startup for home storage battery
 #define REQUIRED_EXPORT_IN_WATTS 0 // when set to a negative value, this acts as a PV generator 
 
 // to prevent the diverted energy total from 'creeping'
